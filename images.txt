@@ -1,1 +1,1 @@
-nginx:latest-aarch64
+nginx:1.23-alpine
